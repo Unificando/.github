@@ -25,7 +25,7 @@ aplicam a todos os projetos:
 | --- | --- | --- | --- |
 | [`ui-unificando`](https://github.com/Unificando/ui-unificando) | Site institucional — laboratório de projetos autorais & IA | TypeScript · Next.js | — |
 | [`hub-unificando`](https://github.com/Unificando/hub-unificando) | Plataforma de conhecimento: REST API + MCP Server + CLI | TypeScript · NestJS | — |
-| [`admin-unificando`](https://github.com/Unificando/admin-unificando) | Console de gestão da plataforma de conhecimento | TypeScript · React | — |
+| [`admin-unificando`](https://github.com/Unificando/admin-unificando) | Console de gestão da plataforma de conhecimento · **privado** | TypeScript · React | — |
 | [`med-unificando`](https://github.com/Unificando/med-unificando) | Consulta de medicamentos intercambiáveis (ANVISA) com IA local | TypeScript · Next.js | — |
 | [`pdf-unificando`](https://github.com/Unificando/pdf-unificando) | Ferramentas de PDF focadas em privacidade | JavaScript | — |
 | [`radar-unificando`](https://github.com/Unificando/radar-unificando) | Busca inteligente de vagas remotas | TypeScript · Next.js | MIT |
