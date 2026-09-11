@@ -30,10 +30,11 @@ aplicam a todos os projetos:
 | [`pdf-unificando`](https://github.com/Unificando/pdf-unificando) | Ferramentas de PDF focadas em privacidade | JavaScript | — |
 | [`radar-unificando`](https://github.com/Unificando/radar-unificando) | Busca inteligente de vagas remotas | TypeScript · Next.js | MIT |
 | [`radar-unificando-extension`](https://github.com/Unificando/radar-unificando-extension) | Extensão Chrome: análise de vagas e dicas de currículo (ATS) | TypeScript · Vite/CRXJS | — |
-| [`prompts-unificando`](https://github.com/Unificando/prompts-unificando) | Biblioteca de prompts padronizados para agentes de IA | JavaScript | MIT |
-| [`promptcraft-unificando`](https://github.com/Unificando/promptcraft-unificando) | CLI para refinar prompts com `claude`/`gemini` | JavaScript | MIT |
+| [`prompts`](https://github.com/Unificando/prompts) | Biblioteca de prompts padronizados para agentes de IA — pacote npm `@unificando/prompts` | JavaScript | MIT |
+| [`refina`](https://github.com/Unificando/refina) | CLI para refinar prompts com `claude`/`gemini` — pacote npm `@unificando/refina` | JavaScript | MIT |
 
 ## Links úteis
 
 - 🌐 Site: [unificando.com.br](https://unificando.com.br)
 - 🏠 Organização: [github.com/Unificando](https://github.com/Unificando)
+- 📦 Pacotes: [github.com/orgs/Unificando/packages](https://github.com/orgs/Unificando/packages)

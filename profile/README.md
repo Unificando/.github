@@ -23,8 +23,8 @@ Construímos ferramentas open-source com foco em **privacidade**, **IA na borda*
 | [**pdf-unificando**](https://github.com/Unificando/pdf-unificando) | Ferramentas de PDF sem armazenamento de arquivos | JavaScript | — |
 | [**radar-unificando**](https://github.com/Unificando/radar-unificando) | Busca inteligente de vagas remotas | TypeScript · Next.js | MIT |
 | [**radar-unificando-extension**](https://github.com/Unificando/radar-unificando-extension) | Extensão Chrome com dicas de currículo (ATS) | TypeScript · CRXJS | — |
-| [**prompts-unificando**](https://github.com/Unificando/prompts-unificando) | Biblioteca de prompts padronizados para agentes de IA | JavaScript | MIT |
-| [**promptcraft-unificando**](https://github.com/Unificando/promptcraft-unificando) | CLI que refina prompts com `claude` / `gemini` | JavaScript | MIT |
+| [**prompts**](https://github.com/Unificando/prompts) | Biblioteca de prompts padronizados para agentes de IA — pacote npm `@unificando/prompts` | JavaScript | MIT |
+| [**refina**](https://github.com/Unificando/refina) | CLI que refina prompts com `claude` / `gemini` — pacote npm `@unificando/refina` | JavaScript | MIT |
 
 > O [**admin-unificando**](https://github.com/Unificando/admin-unificando) é um
 > repositório **privado**.
